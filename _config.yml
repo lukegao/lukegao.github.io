@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Zhi Dian Jiang Shan
+subtitle: "Luke Gao's Humble Personal Blog"
+description: "就是闲聊"
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Luke Gao
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.lukegao.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -95,4 +95,6 @@ theme: pure
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:lukegao/lukegao.github.io.git
+  branch: master
