@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Zhi Dian Jiang Shan</title>
   
-  
+  <subtitle>Luke Gao&#39;s Humble Personal Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://blog.lukegao.me/"/>
   <updated>2019-11-19T13:51:50.426Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://blog.lukegao.me/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Luke Gao</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/19/hello-world/"/>
-    <id>http://yoursite.com/2019/11/19/hello-world/</id>
+    <link href="http://blog.lukegao.me/2019/11/19/hello-world/"/>
+    <id>http://blog.lukegao.me/2019/11/19/hello-world/</id>
     <published>2019-11-19T13:51:50.425Z</published>
     <updated>2019-11-19T13:51:50.426Z</updated>
     
