@@ -5,9 +5,9 @@
   <subtitle>Luke Gao&#39;s Humble Personal Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.lukegao.me/"/>
+  <link href="https://blog.lukegao.me/"/>
   <updated>2019-11-19T13:51:50.426Z</updated>
-  <id>http://blog.lukegao.me/</id>
+  <id>https://blog.lukegao.me/</id>
   
   <author>
     <name>Luke Gao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.lukegao.me/2019/11/19/hello-world/"/>
-    <id>http://blog.lukegao.me/2019/11/19/hello-world/</id>
+    <link href="https://blog.lukegao.me/2019/11/19/hello-world/"/>
+    <id>https://blog.lukegao.me/2019/11/19/hello-world/</id>
     <published>2019-11-19T13:51:50.425Z</published>
     <updated>2019-11-19T13:51:50.426Z</updated>
     
