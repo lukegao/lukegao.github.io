@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lukegao.me/"/>
-  <updated>2019-11-19T13:51:50.426Z</updated>
+  <updated>2019-11-21T06:11:47.913Z</updated>
   <id>https://blog.lukegao.me/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test3</title>
+    <link href="https://blog.lukegao.me/2019/11/21/test3/"/>
+    <id>https://blog.lukegao.me/2019/11/21/test3/</id>
+    <published>2019-11-21T06:11:47.000Z</published>
+    <updated>2019-11-21T06:11:47.913Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, This is test3.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello, This is test3.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://blog.lukegao.me/2019/11/21/test2/"/>
+    <id>https://blog.lukegao.me/2019/11/21/test2/</id>
+    <published>2019-11-21T06:11:45.000Z</published>
+    <updated>2019-11-21T06:11:45.753Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, This is test2.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello, This is test2.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test1</title>
+    <link href="https://blog.lukegao.me/2019/11/21/test1/"/>
+    <id>https://blog.lukegao.me/2019/11/21/test1/</id>
+    <published>2019-11-21T06:11:42.000Z</published>
+    <updated>2019-11-21T06:11:42.088Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
